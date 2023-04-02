@@ -1,0 +1,38 @@
+Match{year=2022, month=1, day=8, firstTeam='TSG 1899 Hoffenheim', firstTeamCount=3, secondTeamCount=1, secondTeam='FC Augsburg', watchers=500, stadium='}
+Match{year=2022, month=1, day=16, firstTeam='FC Augsburg', firstTeamCount=1, secondTeamCount=1, secondTeam='Eintracht Frankfurt', watchers=, stadium='}
+Match{year=2022, month=1, day=22, firstTeam='Bayer 04 Leverkusen', firstTeamCount=5, secondTeamCount=1, secondTeam='FC Augsburg', watchers=750, stadium='}
+Match{year=2022, month=2, day=5, firstTeam='FC Augsburg', firstTeamCount=2, secondTeamCount=0, secondTeam='1. FC Union Berlin', watchers=7600, stadium='}
+Match{year=2022, month=2, day=12, firstTeam='Borussia Monchengladbach', firstTeamCount=3, secondTeamCount=2, secondTeam='FC Augsburg', watchers=10000, stadium='}
+Match{year=2022, month=2, day=19, firstTeam='FC Augsburg', firstTeamCount=1, secondTeamCount=2, secondTeam='Freiburg', watchers=15000, stadium='}
+Match{year=2022, month=2, day=27, firstTeam='FC Augsburg', firstTeamCount=1, secondTeamCount=1, secondTeam='Borussia Dortmund', watchers=15330, stadium='}
+Match{year=2022, month=3, day=4, firstTeam='Arminia Bielefeld', firstTeamCount=0, secondTeamCount=1, secondTeam='FC Augsburg', watchers=19460, stadium='}
+Match{year=2022, month=3, day=19, firstTeam='Stuttgart', firstTeamCount=3, secondTeamCount=2, secondTeam='FC Augsburg', watchers=55785, stadium='}
+Match{year=2022, month=4, day=6, firstTeam='FC Augsburg', firstTeamCount=2, secondTeamCount=1, secondTeam='1. FSV Mainz 05', watchers=18122, stadium='}
+Match{year=2022, month=4, day=3, firstTeam='FC Augsburg', firstTeamCount=3, secondTeamCount=0, secondTeam='VfL Wolfsburg', watchers=23143, stadium='}
+Match{year=2022, month=4, day=9, firstTeam='FC Bayern Munich', firstTeamCount=1, secondTeamCount=0, secondTeam='FC Augsburg', watchers=75000, stadium='}
+Match{year=2022, month=4, day=16, firstTeam='FC Augsburg', firstTeamCount=0, secondTeamCount=1, secondTeam='Hertha BSC', watchers=28533, stadium='}
+Match{year=2022, month=4, day=24, firstTeam='VfL Bochum', firstTeamCount=0, secondTeamCount=2, secondTeam='FC Augsburg', watchers=23500, stadium='}
+Match{year=2022, month=4, day=30, firstTeam='FC Augsburg', firstTeamCount=1, secondTeamCount=4, secondTeam='1. FC Cologne', watchers=29511, stadium='}
+Match{year=2022, month=5, day=8, firstTeam='RB Leipzig', firstTeamCount=4, secondTeamCount=0, secondTeam='FC Augsburg', watchers=37029, stadium='}
+Match{year=2022, month=5, day=14, firstTeam='FC Augsburg', firstTeamCount=2, secondTeamCount=1, secondTeam='SpVgg Greuther Fürth', watchers=27907, stadium='WWK Arena}
+Match{year=2022, month=8, day=6, firstTeam='FC Augsburg', firstTeamCount=0, secondTeamCount=4, secondTeam='Freiburg', watchers=25310, stadium='WWK Arena}
+Match{year=2022, month=8, day=13, firstTeam='Bayer 04 Leverkusen', firstTeamCount=1, secondTeamCount=2, secondTeam='FC Augsburg', watchers=22903, stadium='BayArena}
+Match{year=2022, month=8, day=20, firstTeam='FC Augsburg', firstTeamCount=1, secondTeamCount=2, secondTeam='1. FSV Mainz 05', watchers=23755, stadium='WWK Arena}
+Match{year=2022, month=8, day=27, firstTeam='TSG 1899 Hoffenheim', firstTeamCount=1, secondTeamCount=0, secondTeam='FC Augsburg', watchers=17206, stadium='PreZero Arena}
+Match{year=2022, month=9, day=4, firstTeam='FC Augsburg', firstTeamCount=0, secondTeamCount=2, secondTeam='Hertha BSC', watchers=25789, stadium='WWK Arena}
+Match{year=2022, month=9, day=9, firstTeam='Werder Bremen', firstTeamCount=0, secondTeamCount=1, secondTeam='FC Augsburg', watchers=41000, stadium='Weser-Stadion}
+Match{year=2022, month=9, day=17, firstTeam='FC Augsburg', firstTeamCount=1, secondTeamCount=0, secondTeam='FC Bayern Munich', watchers=30660, stadium='WWK Arena}
+Match{year=2022, month=10, day=2, firstTeam='FC Schalke 04', firstTeamCount=2, secondTeamCount=3, secondTeam='FC Augsburg', watchers=60328, stadium='Veltins-Arena}
+Match{year=2022, month=10, day=8, firstTeam='FC Augsburg', firstTeamCount=1, secondTeamCount=1, secondTeam='VfL Wolfsburg', watchers=26220, stadium='}
+Match{year=2022, month=10, day=16, firstTeam='1. FC Cologne', firstTeamCount=3, secondTeamCount=2, secondTeam='FC Augsburg', watchers=49000, stadium='}
+Match{year=2022, month=10, day=22, firstTeam='FC Augsburg', firstTeamCount=3, secondTeamCount=3, secondTeam='RB Leipzig', watchers=25109, stadium='}
+Match{year=2022, month=10, day=29, firstTeam='Stuttgart', firstTeamCount=2, secondTeamCount=1, secondTeam='FC Augsburg', watchers=46400, stadium='}
+Match{year=2022, month=11, day=5, firstTeam='FC Augsburg', firstTeamCount=1, secondTeamCount=2, secondTeam='Eintracht Frankfurt', watchers=30087, stadium='}
+Match{year=2022, month=11, day=9, firstTeam='1. FC Union Berlin', firstTeamCount=2, secondTeamCount=2, secondTeam='FC Augsburg', watchers=22012, stadium='}
+Match{year=2022, month=11, day=12, firstTeam='FC Augsburg', firstTeamCount=0, secondTeamCount=1, secondTeam='VfL Bochum', watchers=28011, stadium='WWK Arena}
+_________________________________
+Match{year=2022, month=5, day=14, firstTeam='Stuttgart', firstTeamCount=2, secondTeamCount=1, secondTeam='1. FC Cologne', watchers=52230, stadium='Mercedes-Benz Arena}
+Match{year=2022, month=8, day=7, firstTeam='Stuttgart', firstTeamCount=1, secondTeamCount=1, secondTeam='RB Leipzig', watchers=46000, stadium='Mercedes-Benz Arena}
+Match{year=2022, month=8, day=20, firstTeam='Stuttgart', firstTeamCount=0, secondTeamCount=1, secondTeam='Freiburg', watchers=47500, stadium='Mercedes-Benz Arena}
+Match{year=2022, month=9, day=3, firstTeam='Stuttgart', firstTeamCount=1, secondTeamCount=1, secondTeam='FC Schalke 04', watchers=47500, stadium='Mercedes-Benz Arena}
+Match{year=2022, month=9, day=17, firstTeam='Stuttgart', firstTeamCount=1, secondTeamCount=3, secondTeam='Eintracht Frankfurt', watchers=47500, stadium='Mercedes-Benz Arena}
